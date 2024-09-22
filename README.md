@@ -11,7 +11,7 @@ PL Match Prediction is a machine learning project aimed at predicting the outcom
 - Item 2 Key steps include:
 - Sub Item 1 Sending HTTP requests to retrieve the HTML content of the Premier League stats page.
 - Sub Item 2 Parsing the HTML content to extract relevant match and team data.
-- Su Item 3 Cleaning and formatting the scraped data for use in the predictive model.
+- Sub Item 3 Cleaning and formatting the scraped data for use in the predictive model.
 
 # 4710_OEL2_ML_MODEL.ipynb:
 
