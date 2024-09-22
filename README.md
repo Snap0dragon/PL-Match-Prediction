@@ -6,15 +6,13 @@ PL Match Prediction is a machine learning project aimed at predicting the outcom
 
 # Project Files:
 **1. 4710_OEL2_Web_scraping_data.ipynb:**
-
 - Item 1 This notebook is responsible for scraping Premier League data from online sources. Using Python libraries such as requests and BeautifulSoup, the script collects match statistics, team standings, and other relevant data from websites like fbref.com.
 - Item 2 Key steps include:
 - Sub Item 1 Sending HTTP requests to retrieve the HTML content of the Premier League stats page.
 - Sub Item 2 Parsing the HTML content to extract relevant match and team data.
 - Sub Item 3 Cleaning and formatting the scraped data for use in the predictive model.
 
-# 4710_OEL2_ML_MODEL.ipynb:
-
+**2. 4710_OEL2_ML_MODEL.ipynb:**
 - Item 1 This notebook contains the machine learning model used for predicting the outcomes of Premier League matches.
 - Item 2 Key steps include:
 - Sub Item 1 Exploratory Data Analysis (EDA): Visualizing the distribution of categorical and numerical variables such as team, venue, and match result.
